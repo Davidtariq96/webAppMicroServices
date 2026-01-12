@@ -1,0 +1,13 @@
+/Users/mac/Documents/DEVELOPER/DOTNET PROJECTS/webAppMicroServices/src/BuildingBlocks/BuildingBlocks/bin/Debug/net9.0/BuildingBlocks.deps.json
+/Users/mac/Documents/DEVELOPER/DOTNET PROJECTS/webAppMicroServices/src/BuildingBlocks/BuildingBlocks/bin/Debug/net9.0/BuildingBlocks.dll
+/Users/mac/Documents/DEVELOPER/DOTNET PROJECTS/webAppMicroServices/src/BuildingBlocks/BuildingBlocks/bin/Debug/net9.0/BuildingBlocks.pdb
+/Users/mac/Documents/DEVELOPER/DOTNET PROJECTS/webAppMicroServices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.csproj.AssemblyReference.cache
+/Users/mac/Documents/DEVELOPER/DOTNET PROJECTS/webAppMicroServices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/DEVELOPER/DOTNET PROJECTS/webAppMicroServices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.AssemblyInfoInputs.cache
+/Users/mac/Documents/DEVELOPER/DOTNET PROJECTS/webAppMicroServices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.AssemblyInfo.cs
+/Users/mac/Documents/DEVELOPER/DOTNET PROJECTS/webAppMicroServices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/DEVELOPER/DOTNET PROJECTS/webAppMicroServices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.sourcelink.json
+/Users/mac/Documents/DEVELOPER/DOTNET PROJECTS/webAppMicroServices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.dll
+/Users/mac/Documents/DEVELOPER/DOTNET PROJECTS/webAppMicroServices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/refint/BuildingBlocks.dll
+/Users/mac/Documents/DEVELOPER/DOTNET PROJECTS/webAppMicroServices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.pdb
+/Users/mac/Documents/DEVELOPER/DOTNET PROJECTS/webAppMicroServices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/ref/BuildingBlocks.dll
